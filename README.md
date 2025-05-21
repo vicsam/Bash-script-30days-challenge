@@ -7,5 +7,9 @@ Welcome to my 30-day journey to learn Bash scripting! I'm building skills in Lin
  - Concepts: What is Bash? The terminal vs. shell, basic navigation commands
  - Practice: Navigating file system, using basic commands (ls, cd, pwd, mkdir, touch)
  - Mini-Project: Create a directory structure for the course and navigate through it
- -  Challenge: HackerRank Linux Shell: ([Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem))
-- [ ] Day 2: File Operations
+ -  Challenge: HackerRank Linux Shell: ([Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/submissions/code/433283946))
+- [x] Day 2: File Operations
+ - Concepts: Creating, copying, moving, and deleting files and directories
+ - Practice: File manipulation commands (cp, mv, rm, rmdir)
+ - Mini-Project: Build a script that organizes files by extension into separate folders
+ - Challenge: HackerRank Linux Shell:  ([A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/submissions/code/433566771))
